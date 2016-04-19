@@ -1,0 +1,143 @@
+nav {
+  background-color: #6f1f70;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+  padding-bottom: 5px;
+}
+
+nav a {
+  color: #ffffff;
+  padding: 10px;
+}
+
+nav a:hover {
+  background: #aaaaaa;
+  color: #6f1f70;
+  text-decoration: none;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  padding-top: 27px;
+}
+
+article {
+  background-color: #888888;
+  font-size: 1.4em;
+  line-height: 30px;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+hr {
+  border-color: #888888;
+  border-width: 5px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+footer {
+  background-color: #aaaaaa;
+  color: #ffffff;
+  font-size: 1.4em;
+  font-weight: bold;
+  padding: 60px 0 60px 0;
+}
+
+footer ul {
+  padding-left: 0;
+}
+
+footer li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+footer i {
+  width: 20px;
+}
+
+footer a {
+  border: 2px solid #ffffff;
+  border-radius: 30px;
+  color: #ffffff;
+  padding: 15px;
+}
+
+footer a:hover {
+  background: #ffffff;
+  color: #6f1f70;
+  text-decoration: none;
+  transition: all 1s;
+}
+
+.tag {
+  background-color: #eeeeee;
+  font-size: 1.8em;
+  margin: -42px auto 50px auto;
+  width: 80px;
+}
+
+.toe {
+  background-color: #6f1f70;
+  color: #ffffff;
+  font-size: 1.4em;
+  padding: 10px 0 10px 0;
+}
+
+#name {
+  font-family: 'Abel', sans-serif;
+  font-size: 3em;
+  font-weight: bold;
+  padding-top: 0;
+}
+
+#about {
+  background-color: #aaaaaa;
+  box-shadow: 5px 5px 5px #777777;
+  color: #ffffff;
+  padding: 80px 60px 60px 60px;
+}
+
+#about img {
+  border-radius: 140px;
+  width: 260px;
+}
+
+#about hr {
+  border-color: #ffffff;
+  border-width: 5px;
+  margin-left: 75px;
+  margin-right: 0px;
+}
+
+#about .tag {
+  background-color: #aaaaaa;
+  font-size: 1.4em;
+  margin: -42px 0 20px auto;
+}
+
+#portfolio {
+  background-color: #eeeeee;
+  border-top: 1px solid #dddddd;
+  box-shadow: 5px 5px 5px #777777;
+  color: #888888;
+  padding: 40px 60px;
+}
+
+#portfolio img {
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+#contact {
+  background-color: #eeeeee;
+  border-top: 2px solid #dddddd;
+  box-shadow: 5px 5px 5px #777777;
+  color: #888888;
+  padding: 40px 60px;
+}
